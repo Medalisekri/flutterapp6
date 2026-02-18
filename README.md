@@ -24,7 +24,7 @@ Transfert d'info : Quand vous cliquez sur un élément, le code envoie le nom de
 Dans la page des paramètres, vous utilisez une alerte de confirmation :
 
 Elle interrompt l'utilisateur pour lui demander une confirmation avant une action grave (effacer les données).
-
+C'est un Widget qui s'affiche "flottant" au-dessus du reste de l'application.
 * Captures de l'app :
 
   <img width="1920" height="1080" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/d4fd04dc-9e70-4fbd-a97b-4a2d2b012108" />
@@ -34,4 +34,3 @@ Elle interrompt l'utilisateur pour lui demander une confirmation avant une actio
 <img width="1920" height="1080" alt="Screenshot (104)" src="https://github.com/user-attachments/assets/1c5a2d55-b368-418f-9ef1-70ed84d1d091" />
 
 
-C'est un Widget qui s'affiche "flottant" au-dessus du reste de l'application.
